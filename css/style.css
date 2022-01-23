@@ -2,3 +2,31 @@ img{
      background-blend-mode: overlay ;
      opacity: 0.8;
 }
+ul{
+     list-style: none;
+}
+.our{
+     border: 1px solid black;
+     border-radius: 15px;
+     background-color: rgb(156, 156, 207);
+     position: relative;
+     bottom: 50px;
+  
+}
+.we{
+     position: relative;
+}
+.hot{
+     position: absolute;
+     background-color: red;
+     padding: 2px 5px;
+     border: 1px solid black;
+     border-radius: 10px;
+     top: -20px;
+     right: 10px;
+     
+}
+/* .packege:hover{
+     margin-top: 15px;
+     transition: 1s;
+} */
