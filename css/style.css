@@ -16,17 +16,19 @@ ul{
 .we{
      position: relative;
 }
-.hot{
+.hot button{
      position: absolute;
      background-color: red;
-     padding: 2px 5px;
-     border: 1px solid black;
+     color: whitesmoke;
+     padding: 0px 5px;
+     border: none;
      border-radius: 10px;
-     top: -20px;
+     font-weight: 600;
+     top: -15px;
      right: 10px;
      
 }
-/* .packege:hover{
-     margin-top: 15px;
-     transition: 1s;
-} */
+.packege:hover{     
+     overflow-x: hidden;
+}
+  
