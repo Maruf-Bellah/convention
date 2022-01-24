@@ -47,9 +47,7 @@ ul{
      box-shadow:0px 2px 15px #5192F5;
   
 }
-.hover:hover{
-     color:#3F87F5 ;
-}
+
 .we{
      position: relative;
 }
@@ -65,6 +63,18 @@ ul{
      top: -15px;
      right: 15px;   
 }
+#apple{
+     width: 120px;
+
+   
+}
+#play{
+     width: 100px;
+}
+.footer{
+     background-color: #0B0D17;
+}
+
 
 @media screen and (max-width:1000px) {
      .our{
