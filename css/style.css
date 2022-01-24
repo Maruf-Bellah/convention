@@ -25,10 +25,18 @@ ul{
      border-radius: 10px;
      font-weight: 600;
      top: -15px;
-     right: 10px;
+     right: 10px;   
+}
+@media screen and (max-width:1000px) {
+     .our{
+          bottom:0px;
+     }
      
 }
 .packege:hover{     
      overflow-x: hidden;
 }
   
+main{
+     overflow-x: hidden;
+}
